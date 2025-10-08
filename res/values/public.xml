@@ -15095,6 +15095,7 @@
     <public type="layout" name="zoom_ratio_toggle_view" id="0x7f0e0295" />
     <public type="layout" name="zoom_top_tip_layout" id="0x7f0e0296" />
     <public type="layout" name="material_clock_period_toggle_land" id="0x7f0e017b" />
+    <public type="mipmap" name="launcher_ic_fg_cv" id="0x7f0f0004" />
     <public type="mipmap" name="ic_launcher_camera_cv" id="0x7f100000" />
     <public type="plurals" name="a_hour_ago" id="0x7f110000" />
     <public type="plurals" name="abbrev_a_hour_ago" id="0x7f110001" />
